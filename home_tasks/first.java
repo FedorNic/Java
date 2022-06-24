@@ -1,7 +1,7 @@
-// Написать программу вычисления n-ого треугольного числа
+// 1. Написать программу вычисления n-ого треугольного числа
 import java.util.Scanner;
 
-public class tr {
+public class first {
     public static void main(String[]args){
         Scanner iScanner = new Scanner(System.in);
         System.out.println("Введите целое число n, начиная от 1");
